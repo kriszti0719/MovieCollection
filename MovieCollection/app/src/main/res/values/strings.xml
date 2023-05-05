@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="seen">Seen</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="length">Length (min)</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="already_purchased">Already seen</string>
+
+    <string-array name="genre_items">
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Romance</item>
+        <item>Sci-fi</item>
+    </string-array>
+
+    <string name="new_movie">New Movie</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="movie">%s</string>
+    <string name="add">Add</string>
+    <string name="lengthDetails">Length</string>
+</resources>
